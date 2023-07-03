@@ -1,2 +1,2 @@
 # LL-lib
-Simple C library for handling linked lists.
+Simple C Library for Handling Linked Lists.
